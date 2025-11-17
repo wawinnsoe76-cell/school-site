@@ -1,7 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Home Page -->
   <url>
-    <loc>https://wawinnsoe76-cell.github.io/school-site/</loc>
-    <priority>1.00</priority>
+    <loc>https://wawinnsoe76-cell.github.io/school/</loc>
+    <lastmod>2025-11-17</lastmod>
+    <priority>1.0</priority>
   </url>
+
+  <!-- Main Sections -->
+  <url>
+    <loc>https://wawinnsoe76-cell.github.io/school/#about</loc>
+    <lastmod>2025-11-17</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wawinnsoe76-cell.github.io/school/#academics</loc>
+    <lastmod>2025-11-17</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wawinnsoe76-cell.github.io/school/#admissions</loc>
+    <lastmod>2025-11-17</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wawinnsoe76-cell.github.io/school/#news</loc>
+    <lastmod>2025-11-17</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wawinnsoe76-cell.github.io/school/#gallery</loc>
+    <lastmod>2025-11-17</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wawinnsoe76-cell.github.io/school/#leadership</loc>
+    <lastmod>2025-11-17</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wawinnsoe76-cell.github.io/school/#downloads</loc>
+    <lastmod>2025-11-17</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wawinnsoe76-cell.github.io/school/#contact</loc>
+    <lastmod>2025-11-17</lastmod>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Downloads / Documents -->
+  <url>
+    <loc>https://wawinnsoe76-cell.github.io/school/docs/Wawin-Prospectus-2025.pdf</loc>
+    <lastmod>2025-11-17</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wawinnsoe76-cell.github.io/school/docs/Wawin-Calendar-2025.pdf</loc>
+    <lastmod>2025-11-17</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wawinnsoe76-cell.github.io/school/docs/Wawin-Admissions-Form.docx</loc>
+    <lastmod>2025-11-17</lastmod>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Media / Gallery -->
+  <url>
+    <loc>https://wawinnsoe76-cell.github.io/school/gallery1.jpg</loc>
+    <lastmod>2025-11-17</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://wawinnsoe76-cell.github.io/school/gallery2.jpg</loc>
+    <lastmod>2025-11-17</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://wawinnsoe76-cell.github.io/school/gallery3.jpg</loc>
+    <lastmod>2025-11-17</lastmod>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Videos -->
+  <url>
+    <loc>https://wawinnsoe76-cell.github.io/school/celeb13.mp4</loc>
+    <lastmod>2025-11-17</lastmod>
+    <priority>0.3</priority>
+  </url>
+
 </urlset>
+
