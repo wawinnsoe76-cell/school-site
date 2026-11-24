@@ -44,9 +44,55 @@
     .brand { display:flex; gap:.75rem; align-items:center; text-decoration: none; color: var(--ink-1); font-weight: 700; }
     .brand img { width:60px; height:60px; border-radius: 8.5px; object-fit: cover; box-shadow: var(--shadow); }
 
-    nav ul { display:flex; list-style:none; gap: 1rem; margin:0; padding:0; }
-    nav a { text-decoration:none; color: var(--ink-1); font-weight: 600; padding: .5rem .75rem; border-radius: .6rem; }
-    nav a:hover { background: var(--bg-2); }
+    /* Navigation layout */
+.nav nav {
+  flex: 1;
+  min-width: 0;
+}
+
+nav ul {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: flex-end;
+  list-style: none;
+  gap: .35rem;
+  margin: 0;
+  padding: 0;
+}
+
+nav a {
+  text-decoration: none;
+  color: var(--ink-1);
+  font-weight: 600;
+  padding: .45rem .5rem;
+  border-radius: .6rem;
+  font-size: .95rem;
+  white-space: nowrap;
+}
+
+nav a:hover {
+  background: var(--bg-2);
+}
+
+/* Grade 11 Admissions Button */
+nav a.admissions-link {
+  display: inline-block;
+  width: auto;
+  white-space: nowrap;
+  background: var(--brand-1);
+  color: white;
+  border: 2px solid var(--brand-3);
+  border-radius: 25px;
+  padding: .55rem .7rem;
+  font-size: .9rem;
+  font-weight: 700;
+}
+
+nav a.admissions-link:hover {
+  background: var(--brand-3);
+  color: var(--ink-1);
+}
 	
 	  /* Grade 11 Online Admissions Navigation Button */
 	nav a.admissions-link {
